@@ -43,9 +43,9 @@ I know your annoying to pass this text. I'll give you a [SPECIAL HYPER LINK](htt
 > * Computer low level
 
 ## Stats
-![Contribution](https://github-readme-stats.vercel.app/api?username=alfksj&cache_seconds=1800&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Contribution](https://github-readme-stats.vercel.app/api?username=alfksj&cache_seconds=60&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=alfksj&cache_seconds=1800&theme=algolia)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=alfksj&cache_seconds=60&theme=algolia)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=alfksj)](https://solved.ac/alfksj)
