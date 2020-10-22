@@ -19,22 +19,22 @@ Here are some ideas to get you started:
 Thanks to the study for high school, I'm not able to spend my whole time to coding...
 I know your annoying to pass this text. I'll give you a [SPECIAL HYPER LINK](https://github.com/alfksj?tab=repositories)
 
-## Languages
+## Languages(or framworks)
 > I capable of:
 > * C/C++
 > * C#
 > * Java
 > * Python
+> * Javascript
+> * Node.js
 > * ~~HTML~~
 >
 > Learning(or understandable):
-> * Javascript
 > * Lua
 > * Assembly x64
 > 
 > Maybe tomorrow
 > * Kotlin
-> * Node.js
 
 ## Interests
 > * Artificial Inteligence
