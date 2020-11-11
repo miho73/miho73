@@ -32,14 +32,16 @@ I know your annoying to pass this text. I'll give you a [SPECIAL HYPER LINK](htt
 > Learning(or understandable):
 > * Lua
 > * Assembly x64
+> * Kotlin
 > 
 > Maybe tomorrow
-> * Kotlin
+> * Artificial Inteligence
+> * Computer Security
 
 ## Interests
 > * Artificial Inteligence
-> * Database
 > * Computer Security
+> * Database
 > * Computer low level
 
 ## Stats
