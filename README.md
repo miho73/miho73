@@ -35,11 +35,11 @@ I know your annoying to pass this text. I'll give you a [SPECIAL HYPER LINK](htt
 > * Kotlin
 > 
 > Maybe tomorrow
-> * Artificial Inteligence
+> * Artificial Intelligence
 > * Computer Security
 
 ## Interests
-> * Artificial Inteligence
+> * Artificial Intelligence
 > * Computer Security
 > * Database
 > * Computer low level
