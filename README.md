@@ -14,10 +14,36 @@ Here are some ideas to get you started:
 -->
 
 
+## 안녕 난 미호야
+#### 한국에서 개발공부 & 입시준비하는 학생이지
+
+## 언어(혹은 프레임워크)
+> 다룰 줄 안다:
+> * C/C++
+> * C#
+> * Java
+> * Python
+> * Javascript
+> * Node.js
+> * ~~HTML~~
+>
+> 읽을 줄 안다:
+> * Lua
+> * Assembly x64
+> * Kotlin
+> 
+> 공부할 예정이다
+> * 인공지능
+> * 보안
+
+## 관심사
+> * 인공지능
+> * 보안
+> * 컴퓨터 로우레벨
+
+
 ## About me
 #### Hello, I'm miho who studies programmings in Republic of Korea.
-Thanks to the study for high school, I'm not able to spend my whole time to coding...
-I know your annoying to pass this text. I'll give you a [SPECIAL HYPER LINK](https://github.com/miho73?tab=repositories)
 
 ## Languages(or frameworks)
 > I capable of:
@@ -41,10 +67,9 @@ I know your annoying to pass this text. I'll give you a [SPECIAL HYPER LINK](htt
 ## Interests
 > * Artificial Intelligence
 > * Computer Security
-> * Database
 > * Computer low level
 
-## Stats
+## Stats / 스탯
 ![Contribution](https://github-readme-stats.vercel.app/api?username=miho73&cache_seconds=60&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=miho73&cache_seconds=60&theme=algolia)
