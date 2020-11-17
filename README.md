@@ -79,7 +79,13 @@ Here are some ideas to get you started:
 </div>
 </details>
 
+<details>
+<summary>Stats / 스탯</summary>
+<div markdown="1">
+  
 ## Stats / 스탯
 ![Contribution](https://github-readme-stats.vercel.app/api?username=miho73&cache_seconds=60&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=miho73&cache_seconds=60&theme=algolia)
+</div>
+</details>
