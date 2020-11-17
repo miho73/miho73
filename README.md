@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Thanks to the study for high school, I'm not able to spend my whole time to coding...
 I know your annoying to pass this text. I'll give you a [SPECIAL HYPER LINK](https://github.com/miho73?tab=repositories)
 
-## Languages(or framworks)
+## Languages(or frameworks)
 > I capable of:
 > * C/C++
 > * C#
