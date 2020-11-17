@@ -12,12 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 개발하는 미호
 
+<details>
+<summary>한국어/Korean</summary>
+<div markdown="1">
 
 ## 안녕 난 미호야
 #### 한국에서 개발공부 & 입시준비하는 학생이지
-
-## 언어(혹은 프레임워크)
+  ## 언어(혹은 프레임워크)
 > 다룰 줄 안다:
 > * C/C++
 > * C#
@@ -40,7 +43,12 @@ Here are some ideas to get you started:
 > * 인공지능
 > * 보안
 > * 컴퓨터 로우레벨
+</div>
+</details>
 
+<details>
+<summary>영어/English</summary>
+<div markdown="1">
 
 ## About me
 #### Hello, I'm miho who studies programmings in Republic of Korea.
@@ -68,6 +76,8 @@ Here are some ideas to get you started:
 > * Artificial Intelligence
 > * Computer Security
 > * Computer low level
+</div>
+</details>
 
 ## Stats / 스탯
 ![Contribution](https://github-readme-stats.vercel.app/api?username=miho73&cache_seconds=60&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
