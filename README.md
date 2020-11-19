@@ -80,10 +80,10 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary>Stats / 스탯</summary>
+<summary>스탯 / Stats</summary>
 <div markdown="1">
   
-## Stats / 스탯
+## 스탯 / Stats
 ![Contribution](https://github-readme-stats.vercel.app/api?username=miho73&cache_seconds=60&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=miho73&cache_seconds=60&theme=algolia)
