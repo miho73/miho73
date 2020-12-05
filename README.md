@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 <summary>한국어/Korean</summary>
 <div markdown="1">
 
-## 안녕하시오? 난 미호이옵니다.
+## 안녕하시오 저는 미호이옵니다.
 #### 한국에서 개발공부 & 입시준비하는 학생이옵니다.
   ## 언어(혹은 프레임워크)
 > 다룰 줄 아옵니다:
