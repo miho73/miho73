@@ -133,6 +133,7 @@ Here are some ideas to get you started:
 > * Lua
 > * Assembly x64
 > * Kotlin
+> * ~~아희~~
 > 
 > 공부할 예정이옵니다:
 > * 인공지능
