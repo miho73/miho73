@@ -150,7 +150,7 @@ Here are some ideas to get you started:
 <div markdown="1">
 
 ## About me
-#### Hello, I'm miho who studies programmings in Republic of Korea.
+#### Hello, I'm miho who study programmings in Republic of Korea.
 
 ## Languages(or frameworks)
 > I capable of:
