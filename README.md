@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 ## 개발하는 미호
 
 ![](./imgs/exam.png)
+### 2021/07/17 ~ 2022/07/17
 
 <details>
 <summary>나에 대해서</summary>
