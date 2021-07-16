@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ## 개발하는 미호
 
+![](./imgs/exam.png)
+
 <details>
 <summary>나에 대해서</summary>
 <div markdown="1">
