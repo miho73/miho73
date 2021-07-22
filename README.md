@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 2021/07/17 ~ 2022/07/17
 
   ## 언어(혹은 프레임워크)
-> 다룰 줄 아옵니다:
+> 다룰 줄 :
 > * C/C++
 > * C#
 > * Java
@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 > * Node.js
 > * ~~HTML~~
 >
-> 읽을 줄 아옵니다:
+> 읽을 줄 앎:
 > * Lua
 > * Assembly x64
 > * Kotlin
 > * ~~아희~~
 > 
-> 공부할 예정이옵니다:
+> 공부할 예정:
 > * 인공지능
 > * 보안
 
