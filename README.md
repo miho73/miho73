@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 2021/07/17 ~ 2022/07/17
 
   ## 언어(혹은 프레임워크)
-> 다룰 줄 :
+> 다룰 줄 앎:
 > * C/C++
 > * C#
 > * Java
