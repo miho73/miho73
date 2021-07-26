@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 개발하는 미호
 
-![](./imgs/exam.png)
+![](./imgs/exam2.png)
 ### 2021/07/17 ~ 2022/07/17
 
   ## 언어(혹은 프레임워크)
