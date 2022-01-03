@@ -32,15 +32,10 @@ Here are some ideas to get you started:
 > * Assembly x64
 > * Kotlin
 > * ~~아희~~
-> 
-> 공부할 예정:
-> * 인공지능
-> * 보안
 
 ## 관심사
 > * 인공지능
 > * 보안
-> * 컴퓨터 로우레벨
 </div>
 </details>
 
@@ -66,14 +61,10 @@ Here are some ideas to get you started:
 > * Assembly x64
 > * Kotlin
 > 
-> Maybe tomorrow
-> * Artificial Intelligence
-> * Computer Security
 
 ## Interests
 > * Artificial Intelligence
 > * Computer Security
-> * Computer low level
 </div>
 </details>
 
