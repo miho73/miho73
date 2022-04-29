@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 예지!
-### 2021/07/17 ~ 2022/07/17
 
   ## 언어(혹은 프레임워크)
 > 다룰 줄 앎:
