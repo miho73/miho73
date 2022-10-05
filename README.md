@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 
 # 예지
 
+## I am
+
 **Yeji** (miho73)
+
+---
+
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miho73&show_icons=true&theme=nord)
