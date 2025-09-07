@@ -12,16 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# 예지
-
 ## I am
-
-**Yeji** (miho73)
-
-
-
-
 
 ## Stats
 
